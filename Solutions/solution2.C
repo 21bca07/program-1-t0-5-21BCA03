@@ -12,7 +12,7 @@ void main()
       {
 	  c=a%10;
 	  b=b*10+c;
-	  a/=10;
+	 // a/=10;
       }
       printf("\n reversed number:%d",b);
       getch();
